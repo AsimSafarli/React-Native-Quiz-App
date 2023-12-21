@@ -1,0 +1,27 @@
+
+    {
+       "id":1,
+       "question":"Which Pok&eacute;mon and it&#039;s evolutions were banned from appearing in a main role after the Episode 38 Incident?",
+       "answers":[
+        {
+          "id":1,
+          "answer":false,
+          "answertext":"answer 1"
+        },
+        {
+            "id":2,
+            "answer":false,
+            "answertext":"answer 1"
+          },
+          {
+            "id":3,
+            "answer":true,
+            "answertext":"answer 3"
+          },
+          {
+            "id":4,
+            "answer":false,
+            "answertext":"answer 4"
+          }
+       ]
+    }

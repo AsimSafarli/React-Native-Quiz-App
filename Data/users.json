@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "point":120,
+        "name":"Asim"
+    },
+    {
+        "id":2,
+        "point":100,
+
+        "name":"Fuad"
+    },
+    {
+        "id":3,
+        "point":70,
+
+        "name":"Nicat"
+    },
+    {
+        "id":4,
+        "point":30,
+
+        "name":"Ferid"
+    },
+    {
+        "id":5,
+        "point":10,
+        "name":"Cavidan"
+    }
+]
